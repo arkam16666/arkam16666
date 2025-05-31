@@ -1,27 +1,26 @@
-# 👋 สวัสดีครับ ผมชื่อธนาดล (Thanadon)
+# 👋 Hello, I'm Thanadon
 
-ยินดีต้อนรับสู่ GitHub ของผม!  
-ผมสนใจด้านการเขียนโปรแกรม, พัฒนาเว็บ และเทคโนโลยีใหม่ ๆ 💻🚀
+Welcome to my GitHub profile!  
+I'm passionate about programming, web development, and new technologies 💻🚀
 
 ---
 
-## 📚 กำลังเรียนรู้
+## 📚 Currently Learning
 - HTML, CSS, JavaScript
 - Node.js, Express
-- MongoDB, MySQL
+- postgres, MySQL
 - Git, GitHub
 
 ---
 
-## 🧪 โปรเจกต์ที่เคยทำ
-- 📦 [ระบบร้านค้าออนไลน์](#)
-- 🗨️ [เว็บบอร์ดด้วย Node.js](#)
+## 🧪 Projects I've Worked On
+- 📦 [Online Store System](#)
+- 🗨️ [Simple Node.js Forum](#)
 
 ---
 
-## 📫 ติดต่อผมได้ที่
-- 📧 Email: your-email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+## 📫 How to Reach Me
+- 📧 Email: arkam060@gmail.com
 - 🐱 GitHub: [arkam16666](https://github.com/arkam16666)
 
 ---
