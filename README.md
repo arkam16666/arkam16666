@@ -13,12 +13,6 @@ I'm passionate about programming, web development, and new technologies 💻🚀
 
 ---
 
-## 🧪 Projects I've Worked On
-- 📦 [Online Store System](#)
-- 🗨️ [Simple Node.js Forum](#)
-
----
-
 ## 📫 How to Reach Me
 - 📧 Email: arkam060@gmail.com
 - 🐱 GitHub: [arkam16666](https://github.com/arkam16666)
